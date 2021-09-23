@@ -1,0 +1,10 @@
+.produce-item {
+    border: 1px solid;
+    text-align: center;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.produce-item h3{
+    color: #D5D8DC; 
+}

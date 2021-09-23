@@ -1,0 +1,78 @@
+[ 
+
+    { 
+    
+    "name":"Potato", 
+    
+    "id":1, 
+    
+    "price":30, 
+    
+    "available":1, 
+    
+    "vendor":"Himachal Pvt Ltd", 
+    
+    "category":"Vegtables" ,
+
+    "url": "https://www.jiomart.com/images/product/150x150/590003516/potato-per-kg-0-20200710.jpg"
+    
+    }, 
+    
+    { 
+    
+    "name":"Banana", 
+    
+    "id":2, 
+    
+    "price":50, 
+    
+    "available":1, 
+    
+    "category":"Fruits",
+    
+    "vendor": "Organic farms",
+
+    "url": "https://www.jiomart.com/images/product/150x150/590001285/banana-robusta-6-pcs-box-0-20201126.jpg"
+    
+    
+    }, 
+    
+    { 
+    
+    "name":"Drumsticks", 
+    
+    "id":3, 
+    
+    "price":20, 
+    
+    "available":0, 
+    
+    "category":"Vegetables", 
+    
+    "vendor":"Mallikarjuna farms",
+
+    "url":"https://www.jiomart.com/images/product/150x150/590000128/drumstick-each-approx-25-g-100-g-0-20210326.jpg"
+    
+    }, 
+    
+    { 
+    
+    "name":"Orange", 
+    
+    "id":4, 
+    
+    "price":25, 
+    
+    "available":1, 
+    
+    "vendor":"Nagpur farms", 
+    
+    "category":"Fruits" ,
+
+    "url": "https://www.jiomart.com/images/product/150x150/590000025/orange-imported-1-kg-0-20201118.jpg"
+    
+    } 
+    
+    ] 
+    
+    

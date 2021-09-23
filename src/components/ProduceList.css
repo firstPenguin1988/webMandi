@@ -1,0 +1,11 @@
+.sort-by {
+    display: flex;
+    flex-direction: row;
+    ;
+}
+
+button {
+    margin-top: 10px;
+    width: 100px;
+    height: 35px;
+}
