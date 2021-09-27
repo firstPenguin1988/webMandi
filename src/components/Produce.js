@@ -4,7 +4,7 @@ import './Produce.css'
 
 const Produce = (data) => {
     const produceData = data.data;
-    
+    //console.log(produceData);
     return (
         <>
             <div className="produce-item">

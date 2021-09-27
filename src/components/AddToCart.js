@@ -2,7 +2,7 @@ import React, {useState} from "react";
 
 const AddToCart = () => {
     const [showAddButton, setShowAddButton] = useState(false);
-    const onClick = () => setShowAddButton(true);
+    const onClick = () => setShowAddButton(!showAddButton);
     return (
         <div>
             <button onClick={onClick}>Add to Cart</button> 
